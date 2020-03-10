@@ -1,6 +1,10 @@
-# Development PSR Template 
+# Performance Report Template 
 
-This repo contains all the template files and scripts.
+This repo will show you how to install all the programs to run the Performance Report Template. 
+After following the instructions, you can generate the performance report automatically with a single click.
+
+Here is a quick demo.
+![quick_demo](docs/images/quick_demo.gif)
 
 ## Setup Instructions
 
