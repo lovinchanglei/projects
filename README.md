@@ -138,8 +138,6 @@ Here is a quick demo.
 
 + **Step 8 Run the template** 
    
-   Here is a quick demo on how to run the template.
-   ![quick_demo](docs/images/quick_demo.gif)
     
    ![Bravo](http://giphygifs.s3.amazonaws.com/media/MOWPkhRAUbR7i/giphy.gif)
    
