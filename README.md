@@ -4,7 +4,7 @@ This repo will show you how to install all the programs to run the Performance R
 After following the instructions, you can generate the performance report automatically with a single click.
 
 Here is a quick demo.
-![quick_demo](docs/images/quick_demo.gif)
+![quick_demo](docs/images/quick_demo_v2.gif)
 
 ## Setup Instructions
 
