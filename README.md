@@ -1,7 +1,7 @@
 # Introduction 
 
 This repository (repo) will show you some of my projects that I have been working on. And here is a brief introduction.
-
+#  
 ### Data Visualization and Reporting Projects
 
 + **Project 1. Data Visualization** 
@@ -31,11 +31,12 @@ This repository (repo) will show you some of my projects that I have been workin
        As a investor, we want to know how will our IRR (Internal Return Rate) change with the change of some related factors such as market growth rate, expense growth rate, loan rate, and etc.
        
        The main techniques used in this project is Python xlwings and pandas packages.
-    
+#  
+
 
 ### Statistical Modelling/Machine Learning/AI Projects
   TBD...Stay tuned
-
-**Reference** 
+#  
+###Reference
 
 [1] https://www.investopedia.com/terms/s/sensitivityanalysis.asp
