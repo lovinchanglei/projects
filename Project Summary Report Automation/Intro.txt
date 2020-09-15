@@ -1,0 +1,21 @@
+In this Video, I will show you a project that I have worked on to generate a project summary report in both Powerpoint and PDF format by using Excel, SQL, 
+and Python. Users will only need to interact with a Excel file and a simple click on a button will help them to generate all the reports.
+
+Are you ready? Let's get started.
+
+Step 1, open the Excel template and hit the refresh button. This will help us to connect to the TSQL database and update all the dataset we need in the 
+report. And it's supported by the built-in connection query in the Excel template.
+
+Step 2, go to the xlwings tab at the top and click on the "Run main" button. This will help us to generate all the report. And it's supported by the backend
+Python code.
+
+Let's find what we got.
+
+As we can see, this report contains pretty comprehensive analyses including text, pictures, tables, and charts. Users can get the real-time data and analyses
+instantly.
+
+Easy peasy right.
+
+Thank you for your watching.
+
+End :-)
